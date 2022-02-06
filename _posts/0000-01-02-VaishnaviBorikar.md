@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Success is a series of small victories
 Use the left arrow to go back!
